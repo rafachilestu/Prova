@@ -1,0 +1,37 @@
+[
+  {
+    "ContainingType": "Questao5.Infrastructure.Services.Controllers.MovimentarContaController",
+    "Method": "MovimentaConta",
+    "RelativePath": "MovimentarConta",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movimento",
+        "Type": "Questao5.Application.Commands.Requests.MovimentoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.OkResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.BadRequestResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  }
+]

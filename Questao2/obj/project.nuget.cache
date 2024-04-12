@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6aDrgGRJtHXHcVIhpR8Bww4W5f+iCC1gWIir4xE468yU0mw8xpfew0k7CqbPs6vWG5yuZvvkzQwGA0mowp7tg==",
+  "success": true,
+  "projectFilePath": "C:\\Prova\\Questao2\\Questao2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafael.deus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
